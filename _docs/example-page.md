@@ -1,7 +1,9 @@
 ---
 title: A Nested Page
 description: An example of a nested page
+published: true
 ---
+![607358.png]({{site.baseurl}}/_docs/607358.png)
 
 # A Nested Page
 
@@ -33,4 +35,3 @@ but generated with the include statement:
 ```
 {% raw %}{% include doc.html name="here" path="subfolder/example-page" %}{% endraw %}
 ```
-
